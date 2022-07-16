@@ -27,6 +27,10 @@ nav {
     height: 90px;
     width: 90px;
 }
+.preview {
+    height: 65%;
+    width: 65%;
+}
 #nav-links {
     width: 50%;
     height: 100%;
