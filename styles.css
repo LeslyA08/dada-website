@@ -63,6 +63,7 @@ nav {
     font-size: 20px;
     border-radius: 5px;
     font-family: IBM Plex Sans, sans-serif;
+    font-weight: bold;
   }
   img {width: 156px;}
 
@@ -118,13 +119,14 @@ nav {
 
     .footer {
      width: 100%;
-     background-color: pink;
+     background-color: rgb(245, 206, 212);
      padding: 100px 0 70px 0;
      margin: 0;
      border-top: 10px solid white;
      text-align: center;
      color: darkblue;
     font-family: IBM plex sans, sans-serif;
+    font-size: 30px;
       }
 li {
     list-style-type:none;
@@ -134,14 +136,17 @@ a:link { text-decoration: none; }
 h1 {
     color: lightblue;
     font-family: Nunito, sans-serif;
+    font-size: 50px;
 }
 h2 {
     color: darkblue;
     font-family: IBM plex sans, sans-serif;
+    font-size: 45px;
 }
 h3 {
     color: lightblue;
     font-family: IBM plex sans, sans-serif;
+    font-size: 40px;
 }
 
 h4 {
