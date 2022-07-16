@@ -18,19 +18,26 @@ nav {
   background-color: white;
   color: white;
 }
-
+.logo {
+    height: 90px;
+    width: 90px;
+}
 #logo {
   width: 15%;
-  height: 100%;
+  height: 50%;
   background-color: green;
 }
-
 #nav-links {
-  width: 50%;
+    width: 50%;
+    height: 100%;
+    justify-content: flex-end;
+}
+#nav-links2 {
+  width: 100%;
   height: 100%;
   justify-content: flex-end;
   margin: auto;
-
+    display: block;
 }
 .button {
     background-color: white; 
@@ -58,7 +65,7 @@ nav {
   img {width: 156px;}
 
 .body{
-    max-width: 500px;
+    max-width: 100%;
     margin: auto;
     text-align: center;
 }
@@ -98,3 +105,17 @@ nav {
     width: 25%;
     font-size: 20px;
     }
+
+    .footer {
+     width: 100%;
+     background-color: pink;
+     padding: 100px 0 70px 0;
+     margin: 0;
+     border-top: 10px solid white;
+     text-align: center;
+      }
+li {
+    list-style-type:none;
+    padding: 10px;
+}
+a:link { text-decoration: none; }
