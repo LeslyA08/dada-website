@@ -56,31 +56,39 @@ nav {
   }
   img {width: 156px;}
 
-
+body{
+    max-width: 500px;
+  margin: auto;
+  text-align: center;
+}
   .one {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center; 
   }
 
   .two {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center; 
   }
 
   .three {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center; 
   }
 
   .four {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center; 
   }
+
+  h2, h3 {
+width: 25%;
+}
