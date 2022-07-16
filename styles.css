@@ -80,6 +80,7 @@ nav {
     text-align: left;
     color: darkblue;
     font-family: IBM plex sans, sans-serif;
+    font-weight: 100;
   }
 
   .two {
@@ -90,6 +91,8 @@ nav {
     text-align: left;
     color: darkblue;
     font-family: IBM plex sans, sans-serif;
+    font-weight: 100;
+    
   }
 
   .three {
@@ -100,6 +103,7 @@ nav {
     text-align: left;
     color: darkblue;
     font-family: IBM plex sans, sans-serif;
+    font-weight: 100;
   }
 
   .four {
@@ -110,6 +114,7 @@ nav {
     text-align: left;
     color: darkblue;
     font-family: IBM plex sans, sans-serif;
+    font-weight: 100;
   }
 
   h5{
@@ -152,4 +157,8 @@ h3 {
 h4 {
     color: darkblue;
     font-family: IBM plex sans, sans-serif;
+}
+
+strong {
+    font-weight: bold;
 }
