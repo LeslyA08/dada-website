@@ -30,6 +30,7 @@ nav {
 .preview {
     height: 65%;
     width: 65%;
+    padding: 50px;
 }
 #nav-links {
     width: 50%;
